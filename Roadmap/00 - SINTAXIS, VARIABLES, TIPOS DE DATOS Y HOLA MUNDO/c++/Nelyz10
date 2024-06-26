@@ -1,0 +1,9 @@
+#include <iostream>
+//iostream es parte de la libreria de c++
+using namespace std;
+int main (){
+	//cout para imprimir lo que quiero que el usuario vea
+	cout<<"Hola a todos, soy nely :D"<<endl;
+	cout<<"Estoy empezando a programar en c++, el camino empieza desde ahora. :)"<<endl;
+	return 0;
+}
